@@ -1,4 +1,4 @@
-# 🩺 SwasthaSangai – Health-Based Social Networking Platform
+# SwasthaSangai – Health-Based Social Networking Platform
 
 SwasthaSangai is a modern health-focused social networking platform designed to connect individuals through meaningful interactions, health awareness, and community engagement. The platform provides a secure environment where users can communicate, share experiences, participate in health-related discussions, and support social causes through donations.
 
@@ -6,40 +6,40 @@ Built using the **PERN Stack (PostgreSQL, Express.js, React.js, Node.js)**, Swas
 
 ---
 
-## 🚀 Key Features
+## Features
 
-### 👤 User Management
+### User Management
 
 * User Registration & Authentication (JWT)
 * Secure Login & Logout
 * Profile Management
 * Update Profile Picture, Name, and Bio
 
-### 🤝 Social Networking
+### Social Networking
 
 * Send, Accept, and Reject Friend Requests
 * Build and Manage Personal Connections
 * Interactive Community Engagement
 
-### 💬 Real-Time Communication
+### Real-Time Communication
 
 * Instant Messaging with Friends
 * AI-Powered Chatbot Support
 * Real-Time Notifications using Socket.IO
 
-### 📹 Audio & Video Calling
+### Audio & Video Calling
 
 * One-to-One Audio Calls
 * One-to-One Video Calls
 * WebRTC-Based Peer-to-Peer Communication
 
-### ❤️ Donation System
+### Donation System
 
 * Create Donation Posts
 * View and Support Health-Related Fundraising Campaigns
 * Comment and Interact on Donation Posts
 
-### 🏋️ Health Tracking
+### Health Tracking
 
 * Daily Workout Tracking
 * Workout Streak Monitoring
@@ -47,7 +47,7 @@ Built using the **PERN Stack (PostgreSQL, Express.js, React.js, Node.js)**, Swas
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -80,7 +80,7 @@ Built using the **PERN Stack (PostgreSQL, Express.js, React.js, Node.js)**, Swas
 
 ---
 
-## 📋 Use Cases
+## Use Cases
 
 | ID    | Use Case                | Actor           |
 | ----- | ----------------------- | --------------- |
@@ -95,7 +95,7 @@ Built using the **PERN Stack (PostgreSQL, Express.js, React.js, Node.js)**, Swas
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 * Create a health-focused social networking platform.
 * Encourage community engagement and knowledge sharing.
@@ -106,7 +106,7 @@ Built using the **PERN Stack (PostgreSQL, Express.js, React.js, Node.js)**, Swas
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
 * JWT Authentication
 * Protected Routes
@@ -116,9 +116,9 @@ Built using the **PERN Stack (PostgreSQL, Express.js, React.js, Node.js)**, Swas
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Nisha Acharya**
 BIT Student | Full Stack Developer
 
-⭐ Feel free to fork, contribute, and support the project.
+Feel free to fork, contribute, and support the project.
